@@ -44,13 +44,13 @@ Deze Algemene Plaatselijke Verordening vervangt en actualiseert het voorheen gel
 ### **A-3 - Sanctiebeleid**
 
 1. Het sanctiebeleid kent de volgende gradaties:
-    * **Categorie 1:** Waarschuwing gecombineerd met 100 uur gemeenschapsdienst
+    * **Categorie 1:** Waarschuwing gecombineerd met 100 uur taakstraf
       *(Maximum van 3 waarschuwingen per maand; daarna automatische escalatie naar categorie 2.)*
-    * **Categorie 2:** Tijdelijke verbanning van 1 dag plus 50 uur gemeenschapsdienst
-    * **Categorie 3:** Tijdelijke verbanning van 2 dagen plus 50 uur gemeenschapsdienst
-    * **Categorie 4:** Tijdelijke verbanning van 3 dagen plus 50 uur gemeenschapsdienst
-    * **Categorie 5:** Tijdelijke verbanning van 1 week plus 50 uur gemeenschapsdienst
-    * **Categorie 6:** Tijdelijke verbanning van 1 maand plus 50 uur gemeenschapsdienst
+    * **Categorie 2:** Tijdelijke verbanning van 1 dag plus 50 uur taakstraf
+    * **Categorie 3:** Tijdelijke verbanning van 2 dagen plus 50 uur taakstraf
+    * **Categorie 4:** Tijdelijke verbanning van 3 dagen plus 50 uur taakstraf
+    * **Categorie 5:** Tijdelijke verbanning van 1 week plus 50 uur taakstraf
+    * **Categorie 6:** Tijdelijke verbanning van 1 maand plus 50 uur taakstraf
     * **Categorie 7:** Definitieve verbanning
     * **Categorie 8:** Volledige accountverwijdering
 

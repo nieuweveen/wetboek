@@ -1,4 +1,4 @@
-# Wet- en Regelgeving Nieuweveen
+# Home
 
 Welkom bij het officiële juridische portaal van Nieuweveen! Deze website biedt u toegang tot alle geldende wetten, regels en verordeningen binnen onze gemeente.
 

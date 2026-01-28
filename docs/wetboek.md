@@ -1341,4 +1341,4 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
 8. Indien er een afspraak gemaakt word in de zaak om geen bewijsstukken meer toe te voegen mag dit ook niet. Word dit wel gedaan mag dit gezien worden als een vormfout. Je hebt namelijk 24 uur de tijd om bewijs te verzamelen.
 
 ---------------------
-*Wetboek Nieuweveen is opgesteld uit naam van de Hoge Raad, bedoeld voor de gemeente en de stad “Nieuweveen”, opgetekend door Bram Mosterdfiets, te Nieuweveen.*
+*Wetboek Nieuweveen is opgesteld uit naam van de Hoge Raad, bedoeld voor de gemeente en de stad “Nieuweveen”, opgetekend door MokerFlex, te Nieuweveen.*

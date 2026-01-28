@@ -317,6 +317,6 @@ De Politie Nieuweveen hanteert een gestructureerd boetetarievenstelsel conform d
 
 **Juridische Bepalingen:**
 - Alle boetebedragen kunnen worden aangepast conform gemeentelijke besluiten
-- Voor actuele tarieven wordt verwezen naar het [officiële wetboek](https://wetboek.nieuweveen.nl/wetboek/)
+- Voor actuele tarieven wordt verwezen naar het [officiële wetboek](https://documenten.nieuweveen.com/wetboek/)
 - Herhalingsovertredingen kunnen leiden tot verhoogde sancties
 - Boetes worden geïnd conform de gemeentelijke invorderingsprocedure

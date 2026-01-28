@@ -343,7 +343,7 @@ Uitzonderingen kunnen verleend worden door het Crimineel Aanspreekpunt.
 * **Koninklijke Marechaussee**
 * **Justitiële Dienst**
 * **Ambulancedienst**
-* **Nieuweveen Wegenwacht**
+* **Nieuweveen Pechhulp**
 * **Handhavingsdienst**
 
 1. Overheidsmedewerkers mogen zich niet bezighouden met illegale activiteiten.
@@ -357,7 +357,7 @@ Uitzonderingen kunnen verleend worden door het Crimineel Aanspreekpunt.
 ### **Artikel 23 - Interactie met Overheidsdiensten**
 
 1. Meldingen naar overheidsinstanties dienen realistisch en gedetailleerd te zijn; valse meldingen zijn verboden.
-2. Roleplay met Nieuweveen Wegenwacht en Ambulancedienst dient realistisch en uitgebreid te zijn. Deze medewerkers hebben altijd de leidende rol in roleplay-scenario's.
+2. Roleplay met Nieuweveen Pechhulp en Ambulancedienst dient realistisch en uitgebreid te zijn. Deze medewerkers hebben altijd de leidende rol in roleplay-scenario's.
 3. Het creëren van meldingen met het doel overheidsmedewerkers te elimineren, gijzelen of confronteren is verboden.
 4. Na gijzelingen dienen minimaal vijf overheidsmedewerkers beschikbaar te blijven, uitgezonderd Justitiële medewerkers.
 

@@ -64,7 +64,7 @@ De gemarkeerde gebieden op bovenstaande kaart duiden de zones aan waar preventie
 
 ### Kritieke Infrastructuur - Beveiligingszone
 
-**ANWB Servicecentrum**
+**Pechhulp Servicecentrum**
 - Postcode: 6019
 
 **Geautoriseerde Voertuighandel**

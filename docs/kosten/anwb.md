@@ -1,8 +1,8 @@
-# Tariefstructuur ANWB Wegenwacht Gemeente Nieuweveen
+# Tariefstructuur Pechhulp Gemeente Nieuweveen
 
 ## Voertuig Herstel- en Bergingsdiensten
 
-De ANWB Wegenwacht van Nieuweveen biedt professionele voertuighersteldiensten en technische ondersteuning voor alle categorieën motorvoertuigen binnen het gemeentelijk grondgebied.
+De Pechhulp van Nieuweveen biedt professionele voertuighersteldiensten en technische ondersteuning voor alle categorieën motorvoertuigen binnen het gemeentelijk grondgebied.
 
 ---
 

@@ -6,16 +6,16 @@ Dit reglement is vastgesteld ter regulering van contentcreatie-activiteiten binn
 
 ### Toepassingsgebied
 
-Deze regeling is van toepassing op alle deelnemers aan de gemeenschap Nieuweveen die zich bezighouden met:
-- Live streaming via digitale platforms
-- Video-uploadactiviteiten naar online platforms  
+Deze regeling is van toepassing op alle deelnemers aan de gemeenschap Nieuweveen die zich bezighouden met:<br>
+- Live streaming via digitale platforms<br>
+- Video-uploadactiviteiten naar online platforms<br> 
 - Creatie van audiovisueel content met betrekking tot gemeentelijke activiteiten
 
 ### Erkende Content Platforms
 
-De volgende platforms vallen onder deze regeling:
-- **Twitch**: Live streaming platform
-- **YouTube**: Video hosting en streaming platform
+De volgende platforms vallen onder deze regeling:<br>
+- **Twitch**: Live streaming platform<br>
+- **YouTube**: Video hosting en streaming platform<br>
 - **TikTok**: Short-form video platform
 
 ### Registratie en Erkenning
@@ -28,11 +28,11 @@ Content creators kunnen aanspraak maken op officiële erkenning via de Nieuwevee
 
 ### Artikel 1 - Identificatieplicht bij Overheidsfuncties
 
-Content creators die actief zijn in overheidsdiensten dienen tijdens live uitzendingen hun status te markeren middels het `:red_circle:` symbool voor hun gebruikersnaam in Discord-communicatie.
+Content creators die actief zijn in overheidsdiensten dienen tijdens live uitzendingen hun status te markeren middels het `🔴` symbool voor hun gebruikersnaam in Portofoon-communicatie.
 
 ### Artikel 2 - Informatieverplichting
 
-Content creators zijn verplicht alle deelnemers aan Discord-communicatie te informeren over actieve content-opname of live-streaming activiteiten.
+Content creators zijn verplicht alle deelnemers aan Portofoon-communicatie te informeren over actieve content-opname of live-streaming activiteiten.
 
 ### Artikel 3 - Reputatiebeheer
 
@@ -54,9 +54,9 @@ FailRP, RDM, VDM en vergelijkbare regelovertredingen tijdens live-streaming resu
 
 De benaming "Nieuweveen" dient verplicht opgenomen te worden in titels van video's en livestreams voor identificatie- en marketingdoeleinden.
 
-### Artikel 8 - Communicatie-Privacy Overheidsdiensten
+### ~~Artikel 8 - Communicatie-Privacy Overheidsdiensten~~
 
-Content creators werkzaam in overheidsdiensten zijn uitgesloten van het uitzenden van Discord-communicatie tijdens officiële dienstverlening.
+~~Content creators werkzaam in overheidsdiensten zijn uitgesloten van het uitzenden van Discord-communicatie tijdens officiële dienstverlening.~~
 
 ### Artikel 9 - Vertrouwelijke Informatie Bescherming
 
@@ -76,22 +76,22 @@ Het in diskrediet brengen van de gemeente Nieuweveen of individuele deelnemers v
 
 ### Artikel 12 - Sanctiecategorieën
 
-**Categorie A: Informatie-lekken**
-- **Overtreding:** Tonen van vertrouwelijke informatie (telefoonnummers, deepweb-kanalen, persoonlijke communicatie)
-- **Eerste overtreding:** Sanctie Categorie 1
+**Categorie A: Informatie-lekken**<br>
+- **Overtreding:** Tonen van vertrouwelijke informatie (telefoonnummers, deepweb-kanalen, persoonlijke communicatie)<br>
+- **Eerste overtreding:** Sanctie Categorie 1<br>
 - **Herhaalde overtreding:** Sanctieverzwaring ter discretie van staffmedewerkers
 
-**Categorie B: Technische Niet-naleving**
-- **Overtreding:** Niet-gebruik van streamer mode tijdens live-uitzendingen
-- **Eerste overtreding:** Sanctie Categorie 2  
+**Categorie B: Technische Niet-naleving**<br>
+- **Overtreding:** Niet-gebruik van streamer mode tijdens live-uitzendingen<br>
+- **Eerste overtreding:** Sanctie Categorie 2  <br>
 - **Herhaalde overtreding:** Sanctieverzwaring ter discretie van staffmedewerkers
 
 ### Artikel 13 - Graduele Sanctionering
 
-Het sanctieregime hanteert een graduele benadering waarbij:
-1. Eerste overtredingen resulteren in de aangegeven basissanctie
-2. Herhaalde overtredingen kunnen leiden tot sanctieverzwaring
-3. Staffmedewerkers hebben discretionaire bevoegdheid bij sanctie-escalatie
+Het sanctieregime hanteert een graduele benadering waarbij:<br>
+1. Eerste overtredingen resulteren in de aangegeven basissanctie<br>
+2. Herhaalde overtredingen kunnen leiden tot sanctieverzwaring<br>
+3. Staffmedewerkers hebben discretionaire bevoegdheid bij sanctie-escalatie<br>
 4. Ernstige overtredingen kunnen directe verhoogde sancties rechtvaardigen
 
 ### Artikel 14 - Beroepsprocedure

@@ -39,6 +39,10 @@ markdown_extensions:
   - tables
   - attr_list
   - md_in_html
+  - pymdownx.tilde
+  - pymdownx.details
+  - admonition
+
 
 extra:
   social:

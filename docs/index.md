@@ -22,10 +22,10 @@ Nieuweveen beschikt over verschillende officiële Discord-servers die erkend zij
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Nieuweveen Roleplay| Main discord server van Nieuweveen | [Invite](https://discord.gg/nieuweveen) |
-|Nieuweveen Support| Support discord server van Nieuweveen | [Invite](https://discord.gg/ve2BQCwPa2) |
-|Nieuweveen Onderwereld| Onderwereld discord server van Nieuweveen | [Invite](https://discord.gg/JMrvTrZqcz) |
-|Nieuweveen Overheid| Overheid discord server van Nieuweveen | [Invite](https://discord.gg/umabrUhgSE) |
+|Nieuweveen Roleplay| Main discord server van Nieuweveen | [Invite](https://discord.gg/UheZzq38zc) |
+|Nieuweveen Support| Support discord server van Nieuweveen | [Invite](https://discord.gg/dtaym3cKub) |
+|Nieuweveen Onderwereld| Onderwereld discord server van Nieuweveen | [Invite](https://discord.gg/z3TZaj98uW) |
+|Nieuweveen Overheid| Overheid discord server van Nieuweveen | [Invite](https://discord.gg/mdcgpEz9xZ) |
 
 
 ---

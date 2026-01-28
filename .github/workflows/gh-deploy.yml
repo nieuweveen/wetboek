@@ -1,8 +1,7 @@
 name: Deploy MkDocs with gh-deploy
 
+# Disabled - using cw.yml instead to avoid conflicts
 on:
-  push:
-    branches: [ "main", "master" ]
   workflow_dispatch:
 
 permissions:

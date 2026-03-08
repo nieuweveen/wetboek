@@ -114,6 +114,7 @@ Het interfereren met politieachtervolgingen van andere spelers ("counteren") is 
     * Het toebrengen van schade, gijzeling, ontsnapping, overvallen, aanrijdingen of liquidaties.
 
 → **Sanctie:** Categorie 1.
+→ **Extra:** Indien het een overduidelijk rip-scenario is moet het wapen ten allertijde afgegeven worden aan de ripper.
 
 ---
 
@@ -122,42 +123,44 @@ Het interfereren met politieachtervolgingen van andere spelers ("counteren") is 
 1. Na het overlijden van een karakter dient alle geheugen van de voorafgaande roleplay gewist te worden. Terugkeer naar de sterflocatie is verboden gedurende **30 minuten** (gemarkeerd door een rode cirkel op de kaart). Verdere betrokkenheid bij hetzelfde scenario is uitgesloten tot volledige afronding.
 
 → **Sanctie:** Categorie 4.
+→ **Extra toelichting:** Het mondeling doorgeven van informatie over het scenario na overlijden aan collega’s of vrienden, met als doel dat zij hier actie op ondernemen terwijl je zelf niet meer betrokken bent, wordt aangemerkt als een categorie 2 overtreding.
 
 ---
 
-### **Artikel 6 - Willekeurig Geweld**
+### **Artikel 6 - RDM**
 
-1. Het zonder roleplay-context mishandelen, elimineren, provoceren en/of intimideren van personen of dieren is verboden.
+1. Het zonder roleplay-context vermoorden of mishandelen van personen is verboden.
 
 → **Sanctie:** Categorie 1.
 
 ---
 
-### **Artikel 7 - Levenswaarde Negatie**
+### **Artikel 7 - NVOL (No Value Of Life)**
 
-1. Het tonen van onvoldoende zorg voor het eigen karakter-leven is verboden. Dit omvat:
-    * Wegrijden met lage snelheid (onder 30 km/u) in levensbedreigende situaties.
-    * Vluchten van explosieven binnen directe nabijheid zonder beschermende middelen.
+1. Het niet waarderen van het leven van je karakter (NVOL) is verboden. Dit houdt in dat je in levensbedreigende situaties geen realistische angst of voorzichtigheid toont. Voorbeelden hiervan zijn:
+   * Proberen weg te rijden terwijl je onder schot staat, door langzaam weg te rijden (bijvoorbeeld onder de ±30 km/u).
+   * Niet weggaan of blijven staan bij explosieven of andere direct levensgevaarlijke situaties zonder passende bescherming.
 
-    **Uitzondering:** Vluchten van bedreigingen vanuit voertuigen is **GEEN** overtreding.
+   **Uitzondering:** Wegvluchten met een voertuig wanneer je nog niet onder direct en volledig onder schot staat, wordt niet automatisch gezien als NVOL.
 
-2. Overvallen met handwapens is toegestaan binnen armlengte met directe bedreiging. Buiten deze parameters is medewerking vrijwillig.
-Slachtoffers met vuurwapens zijn niet verplicht tot medewerking.
+2. Een beroving met een steekwapen (bijvoorbeeld een mes) is alleen geldig wanneer deze **binnen armlengte** plaatsvindt en er een **duidelijke en directe bedreiging** wordt geuit. Buiten deze afstand of zonder duidelijke dreiging is medewerking **niet verplicht**.
 
+   Wanneer het slachtoffer beschikt over een **vuurwapen**, is deze **niet verplicht** om mee te werken aan een beroving met een steekwapen.
 
-3. Bij pantservoertuigen met ontbrekende, beschadigde of volledig kapotte ramen is medewerking verplicht.
+3. Bevind je je in een **voertuig zonder ramen**, met **kapotte ramen** of **open ramen**, en wordt er een vuurwapen op je gericht van dichtbij, dan wordt dit gezien als een **directe bedreiging** en is medewerking verplicht.
 
 → **Sanctie:** Categorie 2.
 
 ---
 
-### **Artikel 8 - Erotische Inhoud**
+### **Artikel 8 - Erotische Roleplay**
 
-1. Het uitvoeren van erotische roleplay-scenario's is categorisch verboden.
+1. Het uitvoeren van erotische roleplay is strikt verboden op de server.
 
-2. **Voorbeelden van verboden inhoud:**
-    * Seksueel getinte berichten via `/me`, `/do` en `/looc` commando's;
-    * Ongepast gebruik van emotes met seksuele connotaties.
+2. Onder erótische roleplay wordt onder andere verstaan:
+   * Het versturen van seksueel getinte of expliciete handelingen via `/me` of andere roleplay-commando’s;
+   * Seksueel getinte berichten of beschrijvingen in chat (zowel IC als OOC);
+   * Het gebruiken van emotes of animaties met een duidelijke seksuele of ongepaste connotatie in een roleplay-context.
 
 → **Sanctie:** Categorie 7.
 
@@ -174,39 +177,61 @@ Slachtoffers met vuurwapens zijn niet verplicht tot medewerking.
 
 ---
 
-### **Artikel 10 - Informatie-misbruik**
+### **Artikel 10 - Metagaming / Informatie-misbruik**
 
-1. Het benutten van externe informatiebronnen (buiten FiveM verkregen) binnen de spelomgeving is verboden.
-    * Bij gevangenisontsnappingen (Art. 25 APV) dient videomateriaal beschikbaar te zijn dat aantoont dat medeplichtigen de gevangene daadwerkelijk binnen de stad hebben waargenomen.
+1. Het gebruiken van informatie die **niet via roleplay (IC)** is verkregen, maar via externe bronnen zoals **Discord, streams, clips of andere communicatie buiten de server**, is verboden.
 
-    → **Sanctie:** Categorie 1.
+   Hieronder valt onder andere:
+   * Het doorgeven of gebruiken van locatie-informatie, plannen of gebeurtenissen die je karakter **niet ingame heeft verkregen**.
+   * Het reageren op situaties op basis van **informatie van buiten de server**.
 
-2. Externe communicatieplatforms voor roleplay-doeleinden zijn verboden zonder staff-autorisatie.
-    * **Beheerders van ongeautoriseerde Discord-servers** ontvangen **Categorie 7** sancties.
-    * Tijdens spraakcommunicatie met medespelers gelden strikte protocollen:
-        * Streaming is uitgesloten.
-        * Deafened en muted status is verplicht.
-    * Server-streaming in Discord-kanalen is verboden zonder expliciete toestemming.
-    * Bij ontsnappingsscenario's (Art. 25 APV) geldt hetzelfde videobewijsvereiste.
-    * Communicatie met niet-Nieuweveen spelers tijdens gameplay is verboden.
-    * Bewijsmateriaal delen via "ic-bewijs" kanalen is toegestaan, mits opgenomen met bodycam (360°), dashcam (voor/achter) en/of handheld telefoon (360°).
+   **Aanvullend bij gevangenisontsnappingen (Art. 25 APV):**  
+   Personen die helpen bij een ontsnapping moeten de gevangene **daadwerkelijk ingame hebben gezien of gesproken**. Indien hier twijfel over ontstaat, kan staff **videobewijs** opvragen waaruit blijkt dat deze informatie **via roleplay is verkregen**.
+
+→ **Sanctie:** Categorie 1.
+
+2. Het gebruiken van **externe communicatieplatforms** (zoals Discord, Teamspeak, etc.) voor roleplay-gerelateerde communicatie tijdens het spelen op de server is niet toegestaan, tenzij hier **expliciete toestemming van de staff** voor is gegeven.
+
+   Hieronder valt onder andere:
+   * Het gebruiken van externe voicecalls om **IC informatie te delen** tijdens gameplay.
+   * Het opzetten of beheren van **externe Discord-servers bedoeld voor roleplay of serveractiviteiten** zonder toestemming van de staff.
+
+   **Aanvullende regels:**
+   * Beheerders van ongeautoriseerde Discord-servers die gebruikt worden voor servergerelateerde roleplay ontvangen een **Categorie 7 sanctie**.
+   * Wanneer je in een externe call zit tijdens het spelen (bijvoorbeeld met vrienden), moet deze **gedeafened en gemuted** zijn zodat er **geen informatie kan worden gedeeld**.
+   * **Discord streams of screensharing** tijdens gameplay zijn niet toegestaan zonder toestemming van de staff.
+   * Communicatie met **spelers die niet op de server aanwezig zijn** over situaties die op dat moment in de stad plaatsvinden is verboden.
+   * Bij **gevangenisontsnappingen (Art. 25 APV)** kan staff vragen om **videobewijs** waaruit blijkt dat alle informatie via roleplay is verkregen.
+   * Het delen van bewijsmateriaal in daarvoor bestemde kanalen (zoals **ic-bewijs**) is toegestaan, mits dit is opgenomen met **bodycam (360°), dashcam (voor/achter)** of een **handheld telefoon (360°)**.
 
 → **Sanctie:** Categorie 1.
 
 ---
 
-### **Artikel 11 - Systeem-misbruik**
+### **Artikel 11 - Bug- en Exploitmisbruik**
 
-1. Het opzettelijk exploiteren van technische gebreken of bugs ter verkrijging van ongerechtvaardigd voordeel of het omzeilen van spelmechanismen is verboden, ongeacht de gebruikte methoden.
+1. Het bewust gebruiken van **bugs, glitches of andere technische fouten** in de server om voordeel te behalen of spelmechanieken te omzeilen is verboden.
+
+   Hieronder valt onder andere:
+   * Het dupliceren van items, geld of voertuigen.
+   * Het gebruiken van glitches om op plekken te komen waar je normaal niet kan komen.
+   * Het misbruiken van scripts of mechanics om situaties in je voordeel te laten verlopen.
+
+   Kom je per ongeluk een bug tegen? Meld dit dan bij de **staff** en maak er geen misbruik van.
 
 → **Sanctie:** Categorie 7.
 
 ---
 
-### **Artikel 12 - Externe Software**
+### **Artikel 12 - Cheats en Externe Software**
 
-1. Het implementeren van externe software of hulpprogramma's om spelvoordelen te verkrijgen is verboden.
-2. Deze bepaling geldt eveneens voor modificaties aan de Discord-client, inclusief **BetterDiscord** en vergelijkbare applicaties.
+1. Het gebruiken van **externe software, cheats of hulpmiddelen** die een oneerlijk voordeel geven binnen de server is verboden.
+
+2. Hieronder valt onder andere:
+   * Software die gameplay beïnvloedt of informatie geeft die je normaal niet zou hebben.
+   * Het aanpassen of gebruiken van gemodificeerde clients om servermechanieken te omzeilen.
+
+3. **Toegestane aanpassingen:** Visuele of interface-mods die geen direct voordeel geven in gameplay zijn toegestaan, bijvoorbeeld **Flawless Widescreen**, **Reshades** en vergelijkbare graphics-mods.
 
 → **Sanctie:** Categorie 7.
 
@@ -214,13 +239,17 @@ Slachtoffers met vuurwapens zijn niet verplicht tot medewerking.
 
 ### **Artikel 13 - Kledingvoorschriften**
 
-1. Bij karaktercreatie dient de standaardkleding aangepast te worden naar een realistische verschijning met complete lichaamsdelen en passende outfit-combinaties.
-2. Door werkgevers verstrekte uniformen dienen gedragen te worden tijdens dienstuitoefening.
-3. Het dragen van overheidskleding door burgers is verboden, tenzij ondersteund door goedgekeurde roleplay-scenario's.
-4. Officiële Nieuweveen-kleding bestemd voor specifieke groeperingen mag niet gebruikt worden zonder adequate roleplay-rechtvaardiging.
-5. Via de Nieuweveen website aangekochte kleding is toegankelijk voor alle spelers (eigen risico).
+1. Bij het aanmaken van een karakter moet de standaardkleding worden aangepast naar een **realistische outfit** met volledige lichaamsdelen en logisch bij elkaar passende kledingstukken.
 
-→ **Sanctie:** Initieel mondelinge waarschuwing; bij non-compliance volgt Categorie 1.
+2. Uniformen die door werkgevers worden verstrekt, moeten **gedragen worden tijdens dienst**.
+
+3. Het dragen van **overheidskleding door burgers** is verboden, tenzij dit onderdeel is van een **door staff goedgekeurd roleplay-scenario**.
+
+4. **Officiële Nieuweveen-kleding** die bedoeld is voor specifieke groepen of organisaties mag niet worden gedragen zonder een **adequate roleplay-rechtvaardiging**.
+
+5. Kleding die via de **Nieuweveen website** is aangeschaft, mag door alle spelers gebruikt worden, maar gebeurt **op eigen risico**.
+
+→ **Sanctie:** Eerst een mondelinge waarschuwing; bij herhaling of weigering volgt **Categorie 1**.
 
 ---
 

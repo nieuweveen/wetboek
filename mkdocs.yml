@@ -1,6 +1,6 @@
 site_name: Wetboek van Nieuweveen
 site_description: Officiële wet- en regelgeving van de gemeente Nieuweveen
-site_url: https://wetboek.nieuweveen.com
+site_url: https://documenten.nieuweveen.com
 
 theme:
   name: material
@@ -47,7 +47,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/nieuweveen
+      link: https://discord.gg/nrp
   generator: true
 
 copyright: Copyright &copy; 2026 Gemeente Nieuweveen

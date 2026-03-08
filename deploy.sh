@@ -16,7 +16,7 @@ sudo cp -r site/* /var/www/html/
 sudo tee /etc/nginx/sites-available/nieuweveen << EOF
 server {
     listen 80;
-    server_name wetboek.nieuweveen.com www.wetboek.nieuweveen.com;
+    server_name documenten.nieuweveen.com www.documenten.nieuweveen.com;
     
     # Redirect alle HTTP naar HTTPS
     return 301 https://\$server_name\$request_uri;
@@ -24,14 +24,14 @@ server {
 
 server {
     listen 443 ssl http2;
-    server_name wetboek.nieuweveen.com www.wetboek.nieuweveen.com;
+    server_name documenten.nieuweveen.com www.documenten.nieuweveen.com;
     
     root /var/www/html;
     index index.html;
     
     # SSL configuratie (wordt automatisch ingevuld door certbot)
-    ssl_certificate /etc/letsencrypt/live/wetboek.nieuweveen.com/fullchain.pem;
-    ssl_certificate_key /etc/letsencrypt/live/wetboek.nieuweveen.com/privkey.pem;
+    ssl_certificate /etc/letsencrypt/live/documenten.nieuweveen.com/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/documenten.nieuweveen.com/privkey.pem;
     
     # SSL security headers
     add_header Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" always;
@@ -96,13 +96,13 @@ sudo ln -sf /snap/bin/certbot /usr/bin/certbot
 sudo systemctl start nginx
 
 echo "=== SSL Certificate Setup ==="
-echo "Vervang 'wetboek.nieuweveen.com' door je echte domein voordat je dit script uitvoert!"
+echo "Vervang 'documenten.nieuweveen.com' door je echte domein voordat je dit script uitvoert!"
 echo "Voer het volgende commando uit om SSL te configureren:"
-echo "sudo certbot --nginx -d wetboek.nieuweveen.com -d www.wetboek.nieuweveen.com --agree-tos --no-eff-email"
+echo "sudo certbot --nginx -d documenten.nieuweveen.com -d www.documenten.nieuweveen.com --agree-tos --no-eff-email"
 
 # Automatic renewal setup
 echo "0 12 * * * /usr/bin/certbot renew --quiet" | sudo tee -a /etc/crontab
 
 echo "=== Deployment Complete ==="
-echo "Site is beschikbaar op: https://wetboek.nieuweveen.com"
+echo "Site is beschikbaar op: https://documenten.nieuweveen.com"
 echo "Vergeet niet je domein aan te passen in het script!"

@@ -310,21 +310,27 @@ Het interfereren met politieachtervolgingen van andere spelers ("counteren") is 
 ### **Artikel 19 - Voertuiggebruik**
 
 1. Overheidsvoertuigen zijn uitgesloten van burgergebruik zonder staff-autorisatie of gerechtvaardigd motief.
+
 → **Sanctie:** Categorie 1.
 
 2. Werkvoertuigen mogen niet ingezet worden voor illegale doeleinden zonder staff-toestemming.
+
 → **Sanctie:** Categorie 1.
 
 3. Het binnenrijden van gebouwen met voertuigen is verboden.
+
 → **Sanctie:** Categorie 1.
 
 4. Voertuigen als wapen (VDM) gebruiken is verboden, inclusief opzettelijk rammen van stationaire voertuigen om personen te verwonden.
+
 → **Sanctie:** Categorie 1.
 
 5. **Pit-manoeuvres:** Dienen realistisch uitgevoerd te worden en zijn verboden bij snelheden boven **125 km/u**.
+
 → **Sanctie:** Categorie 1.
 
 6. Persoonlijke voertuigen mogen niet gebruikt worden tijdens werkgerelateerde activiteiten (ramen wassen, vrachtvervoer, post, etc.).
+
 → **Sanctie:** Categorie 2.
 
 ---
@@ -574,4 +580,4 @@ Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
 ```
 
 ---
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Nieuweveen”, opgetekend door MokerFlex, te Nieuweveen.
+APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Nieuweveen”, opgetekend door hoge raad, te Nieuweveen.

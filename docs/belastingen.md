@@ -22,8 +22,11 @@ De gemeente Nieuweveen heft motorvoertuigenbelasting over alle gemotoriseerde vo
 De motorvoertuigenbelasting wordt geheven volgens een progressief tariefensysteem. De belastingdruk stijgt proportioneel met het aantal voertuigen in eigendom. De heffing geschiedt automatisch via het gemeentelijk belastingsysteem.
 
 **Belangrijke kenmerken:**
+
 - Automatische incasso zonder handmatige interventie
+
 - Progressieve tariefstructuur gebaseerd op voertuigaantal
+
 - Dagelijkse heffingsfrequentie
 
 ### Tariefstructuur Motorvoertuigenbelasting

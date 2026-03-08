@@ -245,56 +245,65 @@ Het interfereren met politieachtervolgingen van andere spelers ("counteren") is 
 
 ---
 
-### **Artikel 14 - Ongeautoriseerd Verlaten**
+### **Artikel 14 - Combatloggen**
 
-1. Het opzettelijk verlaten van de spelomgeving tijdens actieve roleplay zonder geldige reden is verboden. Terugkeer binnen **5 minuten** wordt verwacht.
-2. Wanneer vertrek noodzakelijk is tijdens roleplay, dient dit gecommuniceerd te worden via `/looc` of verbale mededeling.
+1. Het **verlaten van de game tijdens actieve combat of roleplay gevechten** (combatloggen) is verboden. Terugkeer binnen **5 minuten** wordt verwacht om RP niet te verstoren.
 
-→ **Sanctie:** Categorie 5.
+2. Als je tijdelijk weg moet tijdens roleplay, geef dit **mondeling** aan aan de aanwezige spelers en staff.
+
+→ **Sanctie:** Categorie 5
 
 ---
 
 ### **Artikel 15 - Communicatietalen**
 
-1. Officiële communicatietalen binnen Nieuweveen zijn **Nederlands** en **Engels**.
-2. Andere talen mogen niet gebruikt worden voor provocatie of belediging tijdens roleplay.
-3. Bij interacties met staff of overheidsmedewerkers is Nederlandse communicatie verplicht. Bij taalproblemen dient een tolk aanwezig te zijn.
+1. De officiële taal voor roleplay binnen Nieuweveen is **Nederlands**.
 
-→ **Sanctie:** Niet-Nederlands/Engels sprekende personen zijn uitgesloten van deelname. Provocerend taalgebruik resulteert in Categorie 2.
+2. Andere talen mogen **niet gebruikt worden voor provocatie, belediging of griefing** tijdens roleplay.
 
----
+3. Bij interacties met **staff of overheidsmedewerkers** is communicatie in **het Nederlands verplicht**.
 
-### **Artikel 16 - Gebruik van “/report”**
-
-1. Het gebruik van `/report` is bedoeld om overtredingen te melden zonder de roleplay te beïnvloeden of de overtreder op de hoogte te stellen.
-2. Het is verboden om anderen in-game te informeren over een ingediende report. Dit wordt beschouwd als **FailRP** (OOC gaan in RP).
-3. Het spammen van reports, het maken van onnodige reports, en discussiëren in reports is verboden.
-
-→ **Sanctie:** Categorie 1.
+→ **Sanctie:** Spelers die niet Nederlands spreken kunnen uitgesloten worden van deelname. Provocerend of beledigend taalgebruik leidt tot **Categorie 2**.
 
 ---
 
-### **Artikel 17 - Alternatieve Karakters**
+### **Artikel 16 - Gebruik van `/report`**
 
-1. Het creëren van alternatieve karakters voor vermogensoverdracht is verboden. Het maximum aantal toegestane alt-accounts bedraagt **3**.
-→ **Sanctie:** Categorie 7.
-2. Alternatieve karakters mogen niet gebruikt worden voor criminele activiteiten wanneer andere karakters overheidsfuncties bekleden.
-→ **Sanctie:** Categorie 7.
-3. Multi-boxing en het creëren van meerdere accounts voor gelijktijdig gebruik is verboden.
-→ **Sanctie:** Categorie 7/8 (van toepassing op alle betrokken accounts).
+1. Het commando `/report` is uitsluitend bedoeld om overtredingen te melden zonder de roleplay te verstoren of de overtreder op de hoogte te stellen.
+
+2. Het is verboden om andere spelers **ingame te laten weten** dat een report is ingediend. Dit wordt gezien als **FailRP** (OOC gaan tijdens RP).
+
+3. Het spammen van reports, het indienen van onnodige reports, of discussiëren over reports in-game is niet toegestaan.
+
+→ **Sanctie:** Categorie 1
+
+---
+
+### **Artikel 17 - Alternatieve Karakters (Alts)**
+
+1. Het aanmaken van alternatieve karakters om vermogen of items tussen accounts over te dragen is verboden. Het maximum aantal toegestane alt-accounts is **1**.  
+   → **Sanctie:** Categorie 7
+
+2. Alternatieve karakters mogen **niet gebruikt worden voor criminele activiteiten** wanneer andere karakters overheidsfuncties bekleden.  
+   → **Sanctie:** Categorie 7
+
+3. Multi-boxing en het gebruik van meerdere accounts **tegelijkertijd** is verboden.  
+   → **Sanctie:** Categorie 7/8 (van toepassing op alle betrokken accounts)
 
 ---
 
 ### **Artikel 18 - Voertuighandelaar / Voertuigmeetings**
 
-1. Een voertuigdealer mag alleen bestaan met goedkeuring van KVK.
+1. Een voertuigdealer mag alleen opereren **met goedkeuring van de KvK**.
+
 2. Regels voor voertuighandelaren:
-    * Maximaal **10 voertuigen** in de “showroom”;
-    * Alleen op een door KVK goedgekeurde locatie;
-    * Officiële vergunningen vereist, ondertekend door een lid van KVK.
+   - Maximaal **10 voertuigen** in de showroom.
+   - Alleen op een locatie die door de **KvK is goedgekeurd**.
+   - Officiële vergunningen zijn verplicht, ondertekend door een lid van de **KvK**.
+
 3. Bij voertuigmeetings mogen maximaal **20 voertuigen** aanwezig zijn.
 
-→ **Sanctie:** Categorie 1. De KvK wordt ook geïnformeerd.
+→ **Sanctie:** Categorie 1. De **KvK** wordt ook geïnformeerd.
 
 ---
 
@@ -302,74 +311,78 @@ Het interfereren met politieachtervolgingen van andere spelers ("counteren") is 
 
 1. Overheidsvoertuigen zijn uitgesloten van burgergebruik zonder staff-autorisatie of gerechtvaardigd motief.
 → **Sanctie:** Categorie 1.
+
 2. Werkvoertuigen mogen niet ingezet worden voor illegale doeleinden zonder staff-toestemming.
 → **Sanctie:** Categorie 1.
+
 3. Het binnenrijden van gebouwen met voertuigen is verboden.
 → **Sanctie:** Categorie 1.
+
 4. Voertuigen als wapen (VDM) gebruiken is verboden, inclusief opzettelijk rammen van stationaire voertuigen om personen te verwonden.
 → **Sanctie:** Categorie 1.
+
 5. **Pit-manoeuvres:** Dienen realistisch uitgevoerd te worden en zijn verboden bij snelheden boven **125 km/u**.
 → **Sanctie:** Categorie 1.
+
 6. Persoonlijke voertuigen mogen niet gebruikt worden tijdens werkgerelateerde activiteiten (ramen wassen, vrachtvervoer, post, etc.).
 → **Sanctie:** Categorie 2.
 
 ---
 
-### **Artikel 20 - Ongepaste Communicatie**
+**Artikel 20 – Ongepaste Communicatie**
 
-1. Het gebruik van beledigingen betreffende hedendaagse ziektes, racistische uitlatingen of andere ongepaste opmerkingen is verboden op alle door Nieuweveen erkende platforms.
+Overmatig schelden of provoceren is niet toegestaan.
+Gericht schelden met **racistische termen** is verboden. Beledigingen over **ziektes** zijn toegestaan, maar met grenzen!
 
-→ **Sanctie:**
-    **Eerste overtreding:** Twee weken verbanning.
-    **Tweede overtreding:** Drie maanden verbanning.
-    **Derde overtreding:** Definitieve verbanning.
-2. Toxisch, provocerend, haatzaaiend of opruiend gedrag is niet toegestaan.
+* **Eerste keer:** Eén keer schelden met ziektes of beledigingen (niet persoonlijk gericht) is toegestaan. Bij persoonlijk gerichte beledigingen mag de tegenpartij **RP-acties ondernemen**, zoals vermoorden in-game.
+* **Herhaling:** Twee weken verbanning bij tweede overtreding.
+* **Derde overtreding:** Drie maanden verbanning.
+* **Ernstige herhaling:** Definitieve verbanning.
 
-→ **Sanctie:** Categorie 7.
+Toxisch, provocerend, haatzaaiend of opruiend gedrag blijft te allen tijde **verboden**.
+
+→ **Sanctie:** Categorie 7
 
 ---
 
-### **Artikel 21 - Criminele Confrontaties & Misleiding**
+**Artikel 13 – Scammen / Oplichten**  
 
-1. Het confronteren of misleiden van personen is uitsluitend toegestaan wanneer zij betrokken zijn bij criminele handelingen.
-    * Uitzondering: Bij wapenbezit mogen confrontaties altijd plaatsvinden.
-2. De volgende situaties zijn uitgesloten van confrontaties/misleiding:
-    * Banktegoeden of opslagfaciliteiten;
-    * Handelingen binnen veilige zones;
-    * Overheidseigendommen;
-    * Het dwingen tot huisroof;
-    * Nieuwe deelnemers;
-    * Voertuigverkoop (uitsluitend legale transacties met legitieme middelen).
-3. Kopersverantwoordelijkheid geldt bij voertuigmodificaties (zoals tuning) tijdens overdracht.
-4. Interferentie met confrontaties/gijzelingen is verboden zodra overheidsmedewerkers ter plaatse zijn.
-      * **Uitzondering:** Wanneer criminelen overheidsmedewerkers hebben ontlopen en nieuwe scenario's starten, is interferentie toegestaan.
-5. Wapens, verdovende middelen en gijzelingen in woonruimtes zijn verboden.
-6. Na confrontaties/misleiding mag het slachtoffer niet geëlimineerd worden, ook niet voor geheugenverwijdering.
-7. Na waarneming van criminele activiteiten gelden de volgende tijdslimieten voor verdere confrontaties:
-   * Identiek voertuig met correcte kleur: 15 minuten;
-   * Identiek kenteken: 1 uur;
-   * Persoonsidentificatie: 4 uren;
+1. Het **scammen of oplichten van spelers** is toegestaan met de volgende beperkingen:  
+   - Maximaal **1 miljoen** voor geldtransacties (uitzonderingen: loodsen, giftcards, voertuigen zijn verboden).  
+   - Scammen voor spullen mag niet boven **1 miljoen**.  
+   - Scammen voor wapens of attachments is altijd toegestaan. Je moet **altijd bij je dragen wat je aanbiedt** in je F2.
 
-Uitzonderingen kunnen verleend worden door het Crimineel Aanspreekpunt.
+2. **Verboden tijdens scammen/oplichten:**  
+   - Scammen van voertuigen.  
+   - Scammen voor leden van officiële gangs (level 1 t/m 4) — **maar een lid van een officiële groepering mag wel gescammed worden**.  
+   - Scammen op officiële gangterreinen, mansions of bij een officiële gangpoort.  
+   - Scammen in greenzones.  
+   - Misleiding via nep-transacties, bijvoorbeeld een aankoop van 8 miljoen en 3 miljoen teruggeven om op 5 miljoen uit te komen.
 
-→ **Sanctie:** minimaal Categorie 1.
+3. **Wraakactie:**  
+   - Ben je gescammed? Binnen **24 uur** mag je een RP-wraakactie starten om het geld of wapen terug te eisen.  
+   - Let op: als er een **stafzaak** is aangemaakt, vervalt de mogelijkheid voor wraak. Je moet kiezen tussen een stafzaak of een wraakactie.
+
+4. **Scammen voor giftcards is te allen tijde verboden:**  
+   - Ongeacht situatie of bedrag.
+
+→ **Sanctie:** Categorie 7
 
 ---
 
 ### **Artikel 22 - Overheidsmedewerker Gedragscode**
 
-*Onder overheidsmedewerker worden verstaan spelers die één van de volgende functies uitoefenen, zoals vermeld in het F10-menu:*
+*Onder overheidsmedewerker worden verstaan spelers die één van de volgende functies uitoefenen:*
 
 * **Politiedienst**
-* **Koninklijke Marechaussee**
-* **Justitiële Dienst**
+* **Militaire Politie**
 * **Ambulancedienst**
 * **Nieuweveen Pechhulp**
-* **Handhavingsdienst**
+* **Medewerkers van de AOE (ESI, Recherche, EAS, AT)**
 
 1. Overheidsmedewerkers mogen zich niet bezighouden met illegale activiteiten.
 2. Het doorhandelen van in beslag genomen objecten naar burgers is verboden. Dit geldt tevens voor overige overheidseigendommen en vertrouwelijke informatie verkregen tijdens dienstuitoefening, ook na beëindiging van de dienstbetrekking.
-**Uitzondering:** Politie- of KMAR-medewerkers met speciale autorisatie mogen dienstwapens buiten dienst behouden.
+**Uitzondering:** Politie- of Militaire-medewerkers met speciale autorisatie mogen dienstwapens buiten dienst behouden.
 
 → **Sanctie:** Categorie 6.
 
@@ -380,11 +393,9 @@ Uitzonderingen kunnen verleend worden door het Crimineel Aanspreekpunt.
 1. Meldingen naar overheidsinstanties dienen realistisch en gedetailleerd te zijn; valse meldingen zijn verboden.
 2. Roleplay met Nieuweveen Pechhulp en Ambulancedienst dient realistisch en uitgebreid te zijn. Deze medewerkers hebben altijd de leidende rol in roleplay-scenario's.
 3. Het creëren van meldingen met het doel overheidsmedewerkers te elimineren, gijzelen of confronteren is verboden.
-4. Na gijzelingen dienen minimaal vijf overheidsmedewerkers beschikbaar te blijven, uitgezonderd Justitiële medewerkers.
+4. Na gijzelingen dienen minimaal vijf overheidsmedewerkers beschikbaar te blijven, uitgezonderd AOE medewerkers.
 
-**Uitzondering:** Ambulancemedewerkers mogen vanaf vier aanwezige collega's gegijzeld worden door criminele organisaties, mits de roleplay kwalitatief wordt uitgevoerd en exclusief voor de eigen groep is.
-
-5. Het gijzelen van agenten voor voertuigopslag-toegang is toegestaan mits openstaande bedragen worden voldaan. Dit is verboden tussen 00:00 en 10:00 uur.
+**Uitzondering:** Ambulance en Pechhulp medewerkers mogen nooit gegijzeld worden.
 
 → **Sanctie:** Categorie 5, bij herhaling Categorie 6.
 
@@ -392,63 +403,44 @@ Uitzonderingen kunnen verleend worden door het Crimineel Aanspreekpunt.
 
 ### **Artikel 24 - Criminele Organisaties: Roleplay & Ledenaantallen**
 
-1. Criminele organisaties mogen maximaal 25 actieve leden hebben, met aanvullend maximaal 5 hangarounds.
-2. Samenwerking tussen criminele organisaties is beperkt tot maximaal twee groepen met een gecombineerd totaal van 10 leden van beide organisaties.
-3. Politie-raids mogen gecounterd worden door maximaal twee groepen met een totaal van 25 personen.
-4. Samenwerkingsverbanden tussen officiële organisaties dienen gemeld te worden via het daarvoor bestemde Discord-kanaal.
-5. Bij negatieve reputatie van organisaties (waarschuwingen, agressief gedrag, etc.) kunnen sancties volgen.
+1. Criminele organisaties mogen maximaal 30 actieve leden hebben, met aanvullend maximaal 3 hangarounds.
+2. Politie-raids mogen gecounterd worden door maximaal twee groepen met een totaal van 25 personen.
+3. Samenwerkingsverbanden tussen officiële organisaties dienen gemeld te worden via het daarvoor bestemde Discord-kanaal.
+4. Bij negatieve reputatie van organisaties (waarschuwingen, agressief gedrag, etc.) kunnen sancties volgen.
 
-→ **Sanctie:** Sanctie door CA (Crimineel Aanspreekpunt), mogelijke opschorting van de organisatie.
-
----
-
-### **Artikel 25 - Gevangenisontsnapping**
-
-1. Ontsnappen is toegestaan mits gekoppeld aan een legitiem roleplay-scenario, beoordeeld door staff-medewerkers.
-2. Ontsnappen is verboden tijdens overeengekomen roleplay-pauzes.
-3. Ontsnappen is uitgesloten tussen 01:30 en 10:00 uur.
-4. Er dienen minimaal 10 gecombineerde politie- en KMAR-medewerkers aanwezig te zijn.
-
-→ **Sanctie:** Categorie 1.
+→ **Sanctie:** Sanctie door OC (Onderwereld Coördinator), mogelijke opschorting van de organisatie.
 
 ---
 
-### **Artikel 26 - Witwaspraktijken, Financiële Instellingen & Criminaliteit**
+**Artikel 25 – Gevangenisontsnapping**
 
-1. Witwassers mogen geconfronteerd worden wanneer minimaal één van onderstaande criteria van toepassing is:
-    * Gebruik van gezichtsbedekking;
-    * Voertuigkenteken dat overeenkomt met deepweb-berichten (maximaal 1 uur oud);
-    * Verdachte handelingen bij afleverpunten die niet overeenkomen met de uitgeoefende functie;
-    * Incorrecte kledingcode voor de betreffende functie.
-2. Witwaspraktijken zijn uitsluitend toegestaan in depot-voertuigen of persoonlijke voertuigen van vergelijkbaar model.
-3. Confrontanten dienen videomateriaal beschikbaar te hebben tijdens confrontaties. Bij afwezigheid hiervan wordt de situatie ongedaan gemaakt.
-4. Het observeren of wachten bij witwaslocaties en depots is verboden.
-5. Gijzelaars mogen geen bekenden of vrienden zijn, maar dienen onbekende personen te zijn.
-6. Vuurgevechten dienen vermeden te worden; onderhandeling met overheidsmedewerkers heeft prioriteit.
-7. Liquidaties mogen uitsluitend uitgevoerd worden na communicatie van de reden aan het slachtoffer tijdens het leven.
-8. Het observeren van inactieve drugslocaties is verboden, zowel op het vasteland als het eiland.
-9. Wapentoegang vereist daadwerkelijke betrokkenheid bij achtervolgingen/scenario's en dient duidelijk gecommuniceerd te worden.
-10. Bij borgtocht-scenario's gelden de volgende bepalingen:
-   * Borgtochtdeelnemers mogen niet bevrijd worden;
-   * Bij overlijden in politie-gerelateerde scenario's geldt het Nieuw Leven Principe niet; huiszoekingen blijven doorgang vinden;
-   * Eigendomsverwijdering uit voertuigen en woningen is verboden, inclusief kledingwijzigingen.
-11. 30 minuten voorafgaand aan server-herstarts zijn locatie-confrontaties verboden (winkels, banken, casino's).
+1. Criminelen mogen **geen externe hulpmiddelen** gebruiken om een uitbraak te manipuleren.  
 
-→ **Sanctie:** Categorie 1.
+→ **Sanctie:** Categorie 1
 
 ---
 
-### **Artikel 27 - Functiewisseling**
+**Artikel 26 – Witwaspraktijken & Criminaliteit**
 
-1. Voormalige leden van criminele organisaties dienen minimaal 72 uur te wachten na ontslag/ontslagname voordat zij aangenomen mogen worden bij overheidsdiensten of andere criminele organisaties.
-2. Voormalige overheidsmedewerkers dienen minimaal 72 uur te wachten na ontslag/ontslagname voordat zij aangenomen mogen worden bij andere overheidsdiensten of criminele organisaties.
-3. Leidinggevenden van overheidsdiensten en criminele organisaties zijn verplicht documentatie bij te houden betreffende in- en uitdiensttreding van medewerkers ter handhaving van dit artikel.
+1. Criminelen mogen **geen locaties observeren of wachten** bij witwasdepots of drugslocaties.  
+2. Gijzelaars mogen **geen bekenden of vrienden** zijn.  
 
-→ **Sanctie:** Categorie 1 (bij overheidsdiensten volgt tevens ontslag van de nieuwe functie).
+→ **Sanctie:** Categorie 1
 
 ---
 
-### **Artikel 28 - Vocale Identificatie**
+**Artikel 27 – Functiewisseling**
+
+1. Voormalige leden van criminele organisaties moeten **minimaal 72 uur wachten** na vertrek voordat ze bij overheidsdiensten of andere criminele organisaties mogen worden aangenomen.  
+2. Voormalige overheidsmedewerkers moeten **minimaal 72 uur wachten** na vertrek voordat ze bij andere overheidsdiensten of criminele organisaties mogen worden aangenomen.  
+3. **Leidinggevenden** van overheidsdiensten en criminele organisaties moeten documentatie bijhouden van in- en uitdiensttreding van medewerkers om dit artikel te handhaven.  
+4. Wie een **officiële gang verlaat binnen 2 weken** van toetreding, krijgt een **blacklist van 6 maanden** op deelname aan de onderwereld.
+
+→ **Sanctie:** Categorie 1 (bij overheidsdiensten volgt tevens ontslag van de nieuwe functie)
+
+---
+
+### **Artikel 28 - Stemidentificatie**
 
 1. Het identificeren van spelers aan de hand van stemherkenning is toegestaan, tenzij er geen voorafgaande bekendheid bestaat. Indien hierom gevraagd wordt, dient dit aangetoond te kunnen worden.
 2. Wanneer spelers duidelijke inspanningen verrichten om hun stem te modificeren, is stemherkenning niet toegestaan.
@@ -461,7 +453,6 @@ Uitzonderingen kunnen verleend worden door het Crimineel Aanspreekpunt.
 ### **Artikel 29 - F6-Interactieprotocol**
 
 1. Het direct plaatsen van geboeide personen in voertuigen via F6 zonder uitgevoerde roleplay-handelingen is verboden. Spelers dienen de volgende stappen te volgen voor realistische interacties:
-    * Voertuigdeuren openen;
     * Geboeide personen begeleiden naar deuropeningen;
     * Verbale communicatie (normale of verhoogde toon) of actiecommando's (/me) gebruiken om het in het voertuig plaatsen aan te geven;
     * Overmeestering dient plaats te vinden voorafgaand aan F6-menu gebruik;
@@ -478,27 +469,15 @@ Uitzonderingen kunnen verleend worden door het Crimineel Aanspreekpunt.
 
 ---
 
-### **Artikel 30 - Opslagfaciliteiten**
+## **Roxwood- en Cayo Perico Regelgeving**
 
-1. Misleiding of bedrog betreffende opslagfaciliteiten is verboden.
-2. Verhuur van toegangssleutels voor opslagfaciliteiten is toegestaan.
-3. Handel in aandelen van opslagfaciliteiten is toegestaan.
-4. Alle overeenkomsten betreffende opslagfaciliteiten dienen schriftelijk vastgelegd en gedocumenteerd te worden binnen Nieuweveen via het /docu commando, met ondertekening door alle betrokken partijen.
-5. Bij onduidelijkheden betreffende bepalingen van lid 2 of 3 is het oordeel van staff-medewerkers leidend, waarbij zij beslissen over faciliteitsverdelingen. Partijen die beweren benadeeld te zijn dienen bewijsmateriaal aan te leveren en dragen de bewijslast.
-
-→ **Sanctie:** Categorie 3. Indien overtredingen bedragen boven 2 miljoen betreffen, wordt gestraft volgens Categorie 5.
-
----
-
-## **Narcopolis Regelgeving**
-
-Onderstaande bepalingen zijn uitsluitend van toepassing op Narcopolis
+Onderstaande bepalingen zijn uitsluitend van toepassing op Roxwood- en Cayo Perico
 
 ### **Artikel N-1 - Vuurgevechten vanaf Vasteland en Zeegebied**
 
 1. Het openen van vuur vanaf het vasteland op patrouillerende schepen of helikopters is verboden.
-2. Koninklijke Marechaussee-medewerkers mogen niet vuren op het vasteland.
-3. Inkomende vluchten en schepen die niet afkomstig zijn van de Koninklijke Marechaussee mogen onder vuur genomen worden.
+2. Militaire Politie-medewerkers mogen niet vuren op het vasteland.
+3. Inkomende vluchten en schepen die niet afkomstig zijn van de Militaire Politie mogen onder vuur genomen worden.
 
 → **Sanctie:** Categorie 1.
 
@@ -508,7 +487,7 @@ Onderstaande bepalingen zijn uitsluitend van toepassing op Narcopolis
 
 1. Het laden van verdovende middelen in vliegtuigen of helikopters vereist positionering binnen 50 meter van heliplatforms of landingsbanen.
 2. Sea Sparrow en Dodo-luchtvaartuigen mogen volledig geladen worden op open water.
-3. Kleine eilanden rondom Narcopolis zijn uitgezonderd van deze regel.
+3. Kleine eilanden rondom Roxwood- en Cayo Perico zijn uitgezonderd van deze regel.
 
 → **Sanctie:** Categorie 1.
 
@@ -516,7 +495,7 @@ Onderstaande bepalingen zijn uitsluitend van toepassing op Narcopolis
 
 ### **Artikel N-3 - Criminele Organisatie Samenwerking**
 
-1. Op Narcopolis is samenwerking tussen officiële groepen en andere officiële/onofficiële groepen of individuen verboden.
+1. Op Roxwood- en Cayo Perico is samenwerking tussen officiële groepen en andere officiële/onofficiële groepen of individuen toegestaan.
 2. Uitzondering op lid 1 betreft handel in verdovende middelen. Dit is toegestaan tussen verschillende groepen en personen op het eiland.
 
 → **Sanctie:** Categorie 1.
@@ -538,31 +517,15 @@ Onderstaande bepalingen zijn uitsluitend van toepassing op Narcopolis
 Onderstaande bepalingen gelden voor criminele organisaties.
 Overtredingen van onderstaande regels resulteren in sancties voor de gehele organisatie.
 
-### **Artikel G-1 - Voertuig Inbeslagname**
-
-1. Voertuigen mogen uitsluitend in beslag genomen worden met gerechtvaardigd motief
-(Gerechtvaardigd motief omvat: eigen voertuig in beslag genomen, eliminatie van organisatieleden, actieve conflicten, deelname aan confrontaties, etc.)
-2. Het wederzijds in beslag nemen van voertuigen met de intentie deze door politie/KMAR te laten confisqueren is verboden.
-3. Na voertuig-inbeslagname dient binnen 24 uur contact opgenomen te worden met de betreffende eigenaar (ter continuering van roleplay en mogelijkheid tot diefstalmelding).
-Tevens dient elke 24 uur roleplay voortgezet te worden via berichten en onderhandelingen (bij nalating mag het voertuig kosteloos teruggeëist worden).
-4. Het claimen van voertuigen uit organisatie-opslagen zonder directe aanleiding dat het voertuig daar opgeslagen is, is verboden.
-5. Voertuig-inbeslagname door onofficiële groepen is toegestaan maar maakt de betrokkene direct verantwoordelijk voor roleplay-continuering (deelname aan onderhandelingen en eventuele teruggave van voertuigen).
-6. Voertuig-inbeslagname door officiële organisaties dient gepaard te gaan met kwalitatieve of langdurige roleplay, niet met financieel gewin als doel.
-7. Het in beslag nemen van voertuigen van overleden personen binnen scenario's is verboden.
-
-→ **Sanctie:** Sanctie door CA, mogelijke organisatie-opschorting.
-
----
-
-### **Artikel G-2 - Organisatie Gedragscode**
+### **Artikel G-1 - Organisatie Gedragscode**
 
 1. Het creëren van valse meldingen rond organisatiebases met de intentie tot provocatie van criminelen of benadeeling van rivaliserende groepen is verboden.
-    * Dit omvat tevens opzettelijke uitvoering van illegale praktijken zoals vuurwapengebruik.
-2. Voertuig-inbeslagname door officiële organisaties dient gepaard te gaan met kwalitatieve of langdurige roleplay, niet met financieel gewin als primair doel.
-3. Na twee weken zonder roleplay-continuering betreffende inbeslagnames is kosteloze voertuigterugwinning uit garages toegestaan.
-4. Confiscatie van items, wapens en geld van spelers is uitsluitend toegestaan met gekoppelde roleplay. Confiscatie van overheidseigendommen is verboden.
 
-→ **Sanctie:** Sanctie door CA, mogelijke organisatie-opschorting.
+    * Dit omvat tevens opzettelijke uitvoering van illegale praktijken zoals vuurwapengebruik.
+
+2. Confiscatie van items, wapens en geld van spelers is uitsluitend toegestaan met gekoppelde roleplay. Confiscatie van overheidseigendommen is verboden.
+
+→ **Sanctie:** Sanctie door OC, mogelijke organisatie-opschorting.
 
 ---
 

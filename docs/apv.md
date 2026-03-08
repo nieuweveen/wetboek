@@ -179,25 +179,31 @@ Het interfereren met politieachtervolgingen van andere spelers ("counteren") is 
 
 ### **Artikel 10 - Metagaming / Informatie-misbruik**
 
-1. Het gebruiken van informatie die **niet via roleplay (IC)** is verkregen, maar via externe bronnen zoals **Discord, streams, clips of andere communicatie buiten de server**, is verboden.<br>
-   Hieronder valt onder andere:<br>
-   * Het doorgeven of gebruiken van locatie-informatie, plannen of gebeurtenissen die je karakter **niet ingame heeft verkregen**.<br>
-   * Het reageren op situaties op basis van **informatie van buiten de server**.<br>
-   **Aanvullend bij gevangenisontsnappingen (Art. 25 APV):**<br>
-   Personen die helpen bij een ontsnapping moeten de gevangene **daadwerkelijk ingame hebben gezien of gesproken**. Indien hier twijfel over ontstaat, kan staff **videobewijs** opvragen waaruit blijkt dat deze informatie **via roleplay is verkregen**.<br>
-→ **Sanctie:** Categorie 1.<br><br>
+1. Het gebruiken van informatie die **niet via roleplay (IC)** is verkregen, maar via externe bronnen zoals **Discord, streams, clips of andere communicatie buiten de server**, is verboden.
 
-2. Het gebruiken van **externe communicatieplatforms** (zoals Discord, Teamspeak, etc.) voor roleplay-gerelateerde communicatie tijdens het spelen op de server is niet toegestaan, tenzij hier **expliciete toestemming van de staff** voor is gegeven.<br>
-   Hieronder valt onder andere:<br>
-   * Het gebruiken van externe voicecalls om **IC informatie te delen** tijdens gameplay.<br>
-   * Het opzetten of beheren van **externe Discord-servers bedoeld voor roleplay of serveractiviteiten** zonder toestemming van de staff.<br>
-   **Aanvullende regels:**<br>
-   * Beheerders van ongeautoriseerde Discord-servers die gebruikt worden voor servergerelateerde roleplay ontvangen een **Categorie 7 sanctie**.<br>
-   * Wanneer je in een externe call zit tijdens het spelen (bijvoorbeeld met vrienden), moet deze **gedeafened en gemuted** zijn zodat er **geen informatie kan worden gedeeld**.<br>
-   * **Discord streams of screensharing** tijdens gameplay zijn niet toegestaan zonder toestemming van de staff.<br>
-   * Communicatie met **spelers die niet op de server aanwezig zijn** over situaties die op dat moment in de stad plaatsvinden is verboden.<br>
-   * Bij **gevangenisontsnappingen (Art. 25 APV)** kan staff vragen om **videobewijs** waaruit blijkt dat alle informatie via roleplay is verkregen.<br>
-   * Het delen van bewijsmateriaal in daarvoor bestemde kanalen (zoals **ic-bewijs**) is toegestaan, mits dit is opgenomen met **bodycam (360°), dashcam (voor/achter)** of een **handheld telefoon (360°)**.<br>
+   Hieronder valt onder andere:
+   * Het doorgeven of gebruiken van locatie-informatie, plannen of gebeurtenissen die je karakter **niet ingame heeft verkregen**.
+   * Het reageren op situaties op basis van **informatie van buiten de server**.
+
+   **Aanvullend bij gevangenisontsnappingen (Art. 25 APV):**  
+   Personen die helpen bij een ontsnapping moeten de gevangene **daadwerkelijk ingame hebben gezien of gesproken**. Indien hier twijfel over ontstaat, kan staff **videobewijs** opvragen waaruit blijkt dat deze informatie **via roleplay is verkregen**.
+
+→ **Sanctie:** Categorie 1.
+
+2. Het gebruiken van **externe communicatieplatforms** (zoals Discord, Teamspeak, etc.) voor roleplay-gerelateerde communicatie tijdens het spelen op de server is niet toegestaan, tenzij hier **expliciete toestemming van de staff** voor is gegeven.
+
+   Hieronder valt onder andere:
+   * Het gebruiken van externe voicecalls om **IC informatie te delen** tijdens gameplay.
+   * Het opzetten of beheren van **externe Discord-servers bedoeld voor roleplay of serveractiviteiten** zonder toestemming van de staff.
+
+   **Aanvullende regels:**
+   * Beheerders van ongeautoriseerde Discord-servers die gebruikt worden voor servergerelateerde roleplay ontvangen een **Categorie 7 sanctie**.
+   * Wanneer je in een externe call zit tijdens het spelen (bijvoorbeeld met vrienden), moet deze **gedeafened en gemuted** zijn zodat er **geen informatie kan worden gedeeld**.
+   * **Discord streams of screensharing** tijdens gameplay zijn niet toegestaan zonder toestemming van de staff.
+   * Communicatie met **spelers die niet op de server aanwezig zijn** over situaties die op dat moment in de stad plaatsvinden is verboden.
+   * Bij **gevangenisontsnappingen (Art. 25 APV)** kan staff vragen om **videobewijs** waaruit blijkt dat alle informatie via roleplay is verkregen.
+   * Het delen van bewijsmateriaal in daarvoor bestemde kanalen (zoals **ic-bewijs**) is toegestaan, mits dit is opgenomen met **bodycam (360°), dashcam (voor/achter)** of een **handheld telefoon (360°)**.
+
 → **Sanctie:** Categorie 1.
 
 ---

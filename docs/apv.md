@@ -158,7 +158,7 @@ Het interfereren met politieachtervolgingen van andere spelers ("counteren") is 
 1. Het uitvoeren van erotische roleplay is strikt verboden op de server.
 
 2. Onder erótische roleplay wordt onder andere verstaan:
-   * Het versturen van seksueel getinte of expliciete handelingen via `/me` of andere roleplay-commando’s;
+   * Het versturen van seksueel getinte of expliciete handelingen via `/me`, `/do` of andere roleplay-commando’s;
    * Seksueel getinte berichten of beschrijvingen in chat (zowel IC als OOC);
    * Het gebruiken van emotes of animaties met een duidelijke seksuele of ongepaste connotatie in een roleplay-context.
 
@@ -177,11 +177,12 @@ Het interfereren met politieachtervolgingen van andere spelers ("counteren") is 
 
 ---
 
-### **Artikel 10 - Metagaming / Informatie-misbruik**
+### **Artikel 10 - Informatie-misbruik**
 
-1. Het gebruiken van informatie die **niet via roleplay (IC)** is verkregen, maar via externe bronnen zoals **Discord, streams, clips of andere communicatie buiten de server**, is verboden.
+1. Het benutten van externe informatiebronnen (buiten FiveM verkregen) binnen de spelomgeving is verboden.
 
    Hieronder valt onder andere:
+
    * Het doorgeven of gebruiken van locatie-informatie, plannen of gebeurtenissen die je karakter **niet ingame heeft verkregen**.
    * Het reageren op situaties op basis van **informatie van buiten de server**.
 
@@ -193,43 +194,40 @@ Het interfereren met politieachtervolgingen van andere spelers ("counteren") is 
 2. Het gebruiken van **externe communicatieplatforms** (zoals Discord, Teamspeak, etc.) voor roleplay-gerelateerde communicatie tijdens het spelen op de server is niet toegestaan, tenzij hier **expliciete toestemming van de staff** voor is gegeven.
 
    Hieronder valt onder andere:
+
    * Het gebruiken van externe voicecalls om **IC informatie te delen** tijdens gameplay.
    * Het opzetten of beheren van **externe Discord-servers bedoeld voor roleplay of serveractiviteiten** zonder toestemming van de staff.
 
    **Aanvullende regels:**
+
    * Beheerders van ongeautoriseerde Discord-servers die gebruikt worden voor servergerelateerde roleplay ontvangen een **Categorie 7 sanctie**.
+
    * Wanneer je in een externe call zit tijdens het spelen (bijvoorbeeld met vrienden), moet deze **gedeafened en gemuted** zijn zodat er **geen informatie kan worden gedeeld**.
+
    * **Discord streams of screensharing** tijdens gameplay zijn niet toegestaan zonder toestemming van de staff.
+
    * Communicatie met **spelers die niet op de server aanwezig zijn** over situaties die op dat moment in de stad plaatsvinden is verboden.
+
    * Bij **gevangenisontsnappingen (Art. 25 APV)** kan staff vragen om **videobewijs** waaruit blijkt dat alle informatie via roleplay is verkregen.
+
    * Het delen van bewijsmateriaal in daarvoor bestemde kanalen (zoals **ic-bewijs**) is toegestaan, mits dit is opgenomen met **bodycam (360°), dashcam (voor/achter)** of een **handheld telefoon (360°)**.
 
 → **Sanctie:** Categorie 1.
 
 ---
 
-### **Artikel 11 - Bug- en Exploitmisbruik**
+### **Artikel 11 - Systeem-misbruik**
 
-1. Het bewust gebruiken van **bugs, glitches of andere technische fouten** in de server om voordeel te behalen of spelmechanieken te omzeilen is verboden.
-
-   Hieronder valt onder andere:
-   * Het dupliceren van items, geld of voertuigen.
-   * Het gebruiken van glitches om op plekken te komen waar je normaal niet kan komen.
-   * Het misbruiken van scripts of mechanics om situaties in je voordeel te laten verlopen.
-
-   Kom je per ongeluk een bug tegen? Meld dit dan bij de **staff** en maak er geen misbruik van.
+1. Het opzettelijk exploiteren van technische gebreken of bugs ter verkrijging van ongerechtvaardigd voordeel of het omzeilen van spelmechanismen is verboden, ongeacht de gebruikte methoden.
 
 → **Sanctie:** Categorie 7.
 
 ---
 
-### **Artikel 12 - Cheats en Externe Software**
+### **Artikel 12 - Externe Software**
 
-1. Het gebruiken van **externe software, cheats of hulpmiddelen** die een oneerlijk voordeel geven binnen de server is verboden.
-
-2. Hieronder valt onder andere:
-   * Software die gameplay beïnvloedt of informatie geeft die je normaal niet zou hebben.
-   * Het aanpassen of gebruiken van gemodificeerde clients om servermechanieken te omzeilen.
+1. Het implementeren van externe software of hulpprogramma's om spelvoordelen te verkrijgen is verboden.
+2. Deze bepaling geldt eveneens voor modificaties aan de Discord-client, inclusief **BetterDiscord** en vergelijkbare applicaties.
 
 → **Sanctie:** Categorie 7.
 

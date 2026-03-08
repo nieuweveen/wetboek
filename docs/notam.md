@@ -15,15 +15,20 @@ De volgende zones zijn aangemerkt als **verboden vlieggebieden** (No-Fly Zones) 
 - **Penitentiaire Inrichting**: Gerestricteerd luchtruim boven gevangeniscomplex  
 - **Blokkenpark**: Luchtruimbeperking tot maximale vliegbeperking van 300 meter (1.000 feet) AGL
 - **Marinestation**: Verboden luchtruim boven vliegdekschip en aanliggende wateren
-- **Defensie-installatie**: Gerestricteerd gebied nabij Ministerie van Defensie (Postcode: 6035)
+- **Defensie-installatie**: Gerestricteerd gebied nabij Ministerie van Defensie (Postcode: 9393)
 
 #### Veiligheidsclassificatie
 
 Deze luchtruimbeperkingen zijn ingesteld vanwege:
+
 - **Nationale veiligheidsbelangen**
+
 - **Bescherming van kritieke infrastructuur** 
+
 - **Handhaving openbare orde en veiligheid**
+
 - **Bescherming van bevolkingsconcentraties**
+
 
 ---
 
@@ -38,9 +43,14 @@ De onderstaande officiële luchtruimkaart toont de exacte begrenzing van alle ge
 ### Interpretatie en Naleving
 
 **Belangrijk voor luchtvarenden:**
-- Alle gemarkeerde zones op bovenstaande kaart zijn **strikt verboden** voor civiele luchtvaartuigen
+
+- Alle gemarkeerde zones op bovenstaande kaart zijn **strikt verboden** voor civiele 
+luchtvaartuigen
+
 - Overtreding van deze luchtruimbeperkingen kan leiden tot juridische consequenties
+
 - Bij noodgevallen dient onmiddellijk contact opgenomen te worden met de Luchtverkeersleiding
+
 - Voor vragen betreffende luchtruimclassificatie kan contact opgenomen worden met de gemeente Nieuweveen
 
 **Handhaving:**

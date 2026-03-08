@@ -27,7 +27,7 @@ De onderstaande kaartweergave toont de exacte begrenzing van de douanegebieden b
 
 ### Kaartweergave Douanegebieden
 
-![Officiële kaart douanegebieden gemeente Nieuweveen](img/douaneGebieden.webp)
+![Officiële kaart douanegebieden gemeente Nieuweveen](img/douaneGebieden.png)
 
 **Toelichting bij de kaart:**
 De gemarkeerde gebieden op bovenstaande kaart duiden de zones aan waar preventieve controles uitgevoerd mogen worden door bevoegde ambtenaren. Burgers dienen zich bewust te zijn van deze verhoogde controlebevoegdheden bij het betreden van deze gebieden.

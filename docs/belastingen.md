@@ -56,9 +56,13 @@ De gemeente Nieuweveen heft tolheffing aan de grensposten voor alle gemotoriseer
 Voor regelmatige gebruikers van de gemeentelijke infrastructuur biedt Nieuweveen een abonnementsformule aan met aanzienlijke kostenvoordelen.
 
 **Abonnementsvoorwaarden:**
+
 - Dagelijks abonnementstarief: € 450,-
+
 - Eenmalige aansluitingskosten: € 1.500,-
+
 - Automatische opschorting bij afwezigheid langer dan 2 dagen
+
 - Geldig voor alle grensovergangen binnen de gemeente
 
 ### Tariefoverzicht Tolheffing
